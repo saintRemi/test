@@ -19,12 +19,7 @@ if (isset($_POST['entree']))
 <form action="" method="post">
 Une valeur à saisir<input type="text" name="entree">
 <input type="submit" value="soumettre">
-<h2> voici la modification du développeur 2 </h2>
-<<<<<<< HEAD
-<h2> voici la modification2 du développeur 1 </h2>
-=======
-<h2> voici la modification2 du développeur 2 </h2>
->>>>>>> c066f3cc7e05ae4cca055eaac180d7058c8c83aa
+<h2> voici la première modification faite par moi</h2>
 </form>
 </body>
 </html>
