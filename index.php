@@ -20,6 +20,7 @@ if (isset($_POST['entree']))
 Une valeur à saisir<input type="text" name="entree">
 <input type="submit" value="soumettre">
 <h2> voici la première modification faite par moi</h2>
+<h2> Première modification faite à Saint Rémi</h2>
 </form>
 </body>
 </html>
